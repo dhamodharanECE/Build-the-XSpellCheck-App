@@ -101,13 +101,13 @@ Building clean and accessible UI in React
 
 # Picture Overview:
 
-1. Hero Section:
+  1. Hero Section:
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a2482210-f816-490a-a522-047797ff969d" />
+  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a2482210-f816-490a-a522-047797ff969d" />
 
-2.Error Handling:
+  2.Error Handling:
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d1749937-2fed-41c2-83d4-0be72a821a64" />
+  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d1749937-2fed-41c2-83d4-0be72a821a64" />
 
 3. Deployment Link: 
    ```bash
