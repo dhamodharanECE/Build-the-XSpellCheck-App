@@ -109,7 +109,7 @@ Building clean and accessible UI in React
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d1749937-2fed-41c2-83d4-0be72a821a64" />
 
-1. Deployment Link: 
+Deployment Link: 
     ```bash
     https://build-the-x-spell-check-app-git-0953d7-dhamodharan-ss-projects.vercel.app?_vercel_share=A4Ej16ciiodyODHvVtSaVGrf4yBwrft6
     
