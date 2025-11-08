@@ -6,7 +6,7 @@ It leverages a **custom dictionary** to suggest accurate corrections for typos a
 
 This project demonstrates the conversion of a **class component** implementation into a **functional component** using React Hooks (`useState`, `useEffect`), maintaining the same UI and working behavior.
 
-#🚀 **Features**
+# 🚀 **Features**
 
 ✅ **Real-Time Spell Checking** – Detects misspelled words as the user types in a textarea.  
 
